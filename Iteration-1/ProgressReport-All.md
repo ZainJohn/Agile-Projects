@@ -27,14 +27,14 @@ Everyone pulled their fair share towards the work and were ready to provide help
 
 
 
-## *Zaine Johnson*
+## *Zaine Johnson report*
 ### Overview:
 ### Completed tasks:
 ### Next steps:
 ### Personal
 ### Group
 
-## *Austin Chungath*
+## *Austin Chungath report*
 ### Overview:
 ### Completed tasks:
 ### Next steps:
