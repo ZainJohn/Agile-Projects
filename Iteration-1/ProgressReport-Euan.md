@@ -1,7 +1,12 @@
 # **Agile Project Progress Report - ## E-commerce Site**
 ### **Date:** March 2026
 ### **Euan Kilbane - 2025001928**
+### **Zaine - ...**
+### **Austin - ...**
 
+
+
+## *Euan Kilbane Report*
 ### Overview
 This week, i contributed to core project setup tasks, focusing on user analysis, stakeholder management and development tooling.
 
@@ -19,3 +24,19 @@ I contributed effectively to user persona creation and Github steup, but i could
 
 ### Group
 Everyone pulled their fair share towards the work and were ready to provide help and support. I do believe our communication fell short, so better group meetings and more regular check-ins for future work will be beneficial.
+
+
+
+## *Zaine Johnson*
+### Overview:
+### Completed tasks:
+### Next steps:
+### Personal
+### Group
+
+## *Austin Chungath*
+### Overview:
+### Completed tasks:
+### Next steps:
+### Personal
+### Group
