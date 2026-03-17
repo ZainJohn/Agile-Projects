@@ -32,10 +32,18 @@ Everyone pulled their fair share towards the work and were ready to provide help
 
 ## *Zaine Johnson report*
 ### Overview:
+This week I worked on project management, and user analysis.
 ### Completed tasks:
+- I created a **user persona** for our project, this **user persona** will give us an idea for features or design choices we can add to our site.
+- I helped with the setup of our github page, creating the repository and adding my teams members as collaborators, and making sure they had the correct permissions.
 ### Next steps:
+- Review and create a report about our user personas.
+- Continue add to the github repo and readme file.
 ### Personal
+I think so far I have contributed well to my teams project but, I could have communicated with my team better and done more work as I feel I haven't put in as much as I should have. 
 ### Group
+As a group I think we are doing good, everyone has worked well and kept our Github files organised. The only problem we've had is our communication which could be better in the future. 
+
 
 ## *Austin Chungath report*
 ### Overview:
