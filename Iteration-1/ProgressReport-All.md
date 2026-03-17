@@ -10,6 +10,8 @@
 
 
 ## *Euan Kilbane Report*
+## *KILBAE1@student.eit.ac.nz*
+
 ### Overview
 This week, i contributed to core project setup tasks, focusing on user analysis, stakeholder management and development tooling.
 
@@ -46,8 +48,8 @@ As a group I think we are doing good, everyone has worked well and kept our Gith
 
 
 ## *Austin Chungath report*
-### Overview:
-### Completed tasks:
-### Next steps:
-### Personal
-### Group
+### 2025003604
+## *CHUNGA1@student.eit.ac.nz*
+
+## Progress Report
+In the first phase of building the e-commerce site, work began across all five key outputs. Right after gathering with the team, notes were shaped around what we discussed - objectives, structure, how GitHub would be used - following the standard report layout. Taking point on one piece meant filling out who mattered most: fifteen individuals got listed, each tagged by role, influence, concerns, and contact methods, later shared through Excel and Markdown files. A specific task fell to me - the creation of a user profile named Ryan Mehta, age twenty-seven, working in tech; this included motivations, pain points, where he finds answers, plus properly cited APA sources backing each detail. After joining the team discussion about the three user profiles, I shared thoughts on how well they matched the online store's needs. To wrap up, the completed files were turned into Markdown format and uploaded through VS Code to our shared GitHub space.
