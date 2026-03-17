@@ -23,7 +23,7 @@ This week, i contributed to core project setup tasks, focusing on user analysis,
 - Continue assisting with stakeholder requirements and maintaining the Git repository as development progresses.
 
 ### Personal
-I contributed effectively to user persona creation and Github steup, but i could have provided more input towards the stakeholder register, giving us a foundation to work on.
+I contributed effectively to user persona creation and Github setup, but i could have provided more input towards the stakeholder register, giving us a foundation to work on.
 
 ### Group
 Everyone pulled their fair share towards the work and were ready to provide help and support. I do believe our communication fell short, so better group meetings and more regular check-ins for future work will be beneficial.
