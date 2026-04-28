@@ -28,3 +28,22 @@ Euan Kilbane 2025001928 Report:
 For iteration 2, I contributed to the group by completing the weekly meeting reports, reviewing and helping create the Gantt chart, assigning tasks on GitHub boards, and preparing the resource requirement list. Our meeting notes include the agenda, date, actions, attendees, and next meeting details, which help keep the team organized and ensure everyone stays informed.
 
 What is working well is that our group now has a better structure for planning and sharing work. The meeting reports and task board help everyone understand what needs to be done, and they also make it easier to track progress. What is not working as well is that updates are slow, and some tasks are not assigned clearly. To improve, our group needs to communicate more regularly, update the board after each meeting, and make sure every member is accountable for their tasks. This will help us stay on track and complete work more efficiently.
+
+## Zaine Johnson
+## johnsz10@student.eit.ac.nz
+
+### Overview
+This week, I contributed to planning and management tasks for Iteration 2. I focused on project scheduling and GitHub management.
+
+### Completed tasks:
+I contributed to the Gantt Chart focusing on planning tasks for Iteration 3. I contributed to the Readme.md file adding our parts from Iteration 2. 
+
+### Next steps:
+- continue adding to the Readme.md file.
+- Start Iteration 3
+
+### Personal
+I do not think I have contributed as well this Iteration compared to Iteration 1, I will try to take on or help with more tasks during Iteration 3. 
+
+### Group
+The groups comunication improved during this Iteration, with more structured meetings and better task management than our previous Iteration. In the future I think we could work more on our Github management, like commiting our tasks on time and making sure we resolve our issues.
