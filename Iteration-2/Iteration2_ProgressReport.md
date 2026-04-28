@@ -18,3 +18,13 @@ I contributed effectively to the Gantt chart and GitHub board setup, but I could
 
 ### Group
 The group worked well together this iteration, with clearer task distribution compared to Iteration 1. Our meeting structure improved and check-ins were more consistent. Going forward, we should focus on resolving GitHub issues more promptly and ensuring all members push their changes on time to avoid delays.
+
+
+
+
+
+Euan Kilbane 2025001928 Report:
+
+For iteration 2, I contributed to the group by completing the weekly meeting reports, reviewing and helping create the Gantt chart, assigning tasks on GitHub boards, and preparing the resource requirement list. Our meeting notes include the agenda, date, actions, attendees, and next meeting details, which help keep the team organized and ensure everyone stays informed.
+
+What is working well is that our group now has a better structure for planning and sharing work. The meeting reports and task board help everyone understand what needs to be done, and they also make it easier to track progress. What is not working as well is that updates are slow, and some tasks are not assigned clearly. To improve, our group needs to communicate more regularly, update the board after each meeting, and make sure every member is accountable for their tasks. This will help us stay on track and complete work more efficiently.
