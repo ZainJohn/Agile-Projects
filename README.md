@@ -6,7 +6,7 @@
 |---|---|
 | **GitHub** | https://github.com/ZainJohn/Agile-Projects |
 | **GitHub Pages** | https://zainjohn.github.io/Agile-Projects/ |
-| **Team** | Euan Kilbane, Zaine Johnson, Austin Chungath |
+| **Team** | Euan Kilbane, Zaine Johnson, Austin Adison |
 
 ---
 
