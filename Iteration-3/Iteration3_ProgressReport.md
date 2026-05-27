@@ -47,3 +47,25 @@ I contributed well to the website setup and publishing process, taking ownership
 
 ### Group
 The group collaborated effectively this iteration, with each member owning specific HTML pages, which made the merge process straightforward. Meeting attendance was consistent and communication improved compared to earlier iterations. For future projects, we should aim to complete testing earlier and push our individual work incrementally rather than in large batches near the deadline, to reduce last-minute merge conflicts and allow more time for troubleshooting.
+
+
+
+## *Zaine Johnson*
+## *JOHNSZ1@student.eit.ac.nz*
+
+### Overview
+This Iteration I worked on publishing the Github pages, User acceptence testing and repository management.
+
+### Completed tasks:
+- Published **Github Pages** and made edits **Orders.html** and **Products.html** page.
+- Completed the **User Acceptance Testing** verifying the contact form, navigation bar, product showcase and footer information were working and displayed the correct information.
+- Updated Gantt Chart.
+
+
+### Personal
+I should have contributed and been more involved with my group during this iteration, especially during the start. I could have spent more time managing the repo as this would have made it easier for my group to upload their work and would have reduce the amount of merges and branches made. I should have uploaded my work earlier as it would have given the group more time to check for errors and make changes if nessecary.
+
+### Group
+During this iteration the group worked well together, our communication improved compared to last iteration and 
+
+The group performed well during Iteration 3, with communication improving compared to earlier iterations and weekly meetings being held consistently. In the future, submitting updates earlier and increasing communication during development would help minimise last-minute problems.
